@@ -27,9 +27,9 @@ Date:
 ## Models
 
 - Linear regression
-- Holt-Winters Exponential Smoothing
+- FCN
 - Arima
-- XGBoost
+- LSTM
 - Bayes
 - GRU
 
